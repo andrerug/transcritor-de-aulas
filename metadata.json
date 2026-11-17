@@ -1,0 +1,7 @@
+{
+  "name": "Transcritor de Aulas AI",
+  "description": "Transcreva aulas gravadas ou ao vivo em áudio com inteligência artificial, gerando notas didáticas estruturadas, resumos, glossário, flashcards e quiz de fixação.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

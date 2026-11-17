@@ -1,0 +1,11 @@
+{
+  "projectId": "SEU_PROJETO_FIREBASE",
+  "appId": "SEU_APP_ID",
+  "apiKey": "SUA_CHAVE_WEB_DO_FIREBASE",
+  "authDomain": "SEU_PROJETO_FIREBASE.firebaseapp.com",
+  "storageBucket": "SEU_PROJETO_FIREBASE.firebasestorage.app",
+  "messagingSenderId": "SEU_SENDER_ID",
+  "measurementId": "",
+  "oAuthClientId": "SEU_CLIENT_ID.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
